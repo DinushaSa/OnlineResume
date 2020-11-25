@@ -49,4 +49,30 @@ body
 .profile-info h2
 {
 	margin-top: 50px;
-	margin-bottom: 15px;
+    margin-bottom: 15px;
+}
+.education img
+{
+    height: 30px;
+    margin: 4px;
+}
+.education
+{
+    display: inline-block;
+    width: 28%;
+    padding: 30px 10px;
+    margin: 2%;
+    text-align: center;
+    
+    background: #fff;
+    display: inline;
+}
+.education small {
+    padding-top: 10px;
+    display: block;
+}
+.education h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
